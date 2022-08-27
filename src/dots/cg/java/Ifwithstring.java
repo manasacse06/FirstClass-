@@ -1,6 +1,6 @@
 package dots.cg.java;
 
-public class Ifelse {
+public class Ifwithstring {
 
 	public static void main(String[] args) {
 		//create string variable
