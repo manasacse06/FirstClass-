@@ -1,6 +1,6 @@
 package dots.cg.java;
 
-import java.util.Scanner;
+
 
 public class SumWhile {
 
